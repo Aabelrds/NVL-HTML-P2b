@@ -1,0 +1,11 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<META CHARSET=UFT-8">
+<TITLE> HTML-P5A <\TITLE>
+<\HEAD>
+<BODY>
+<P> PRUEBA PRACTICA HTML TRATAMIENTO BASICO DE IMAGENES <\P>
+<IMG SRC="C:\Users\andre\Documents\Ale\laliga.jpg" alt="Logo de la liga española de fútbol primera división" width= "150" height= "150">
+<\BODY>
+<\HTML>
