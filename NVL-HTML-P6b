@@ -6,47 +6,36 @@
 <p> LAS MEJORES PELICULAS, ALFOMBRA ROJA, MOVIES, ARTISTAS, GALARDON, PREMIOS OSCAR <\P>
 <\head>
 <body>
+
 <p> Las mejores peliculas: <\p>
+
 <img src= "C:\Users\andre\Documents\Ale\Logomovie.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
+
 <ul>
+
 <li> 1. EL PADRINO 
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\tgf.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
+<img src= "C:\Users\andre\Documents\Ale\tgf.jpg" alt= "Pelicula El Padrino" width= "50" height= "50" \>
 <li> 2. AVATAR
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\AVATAR.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
+<img src= "C:\Users\andre\Documents\Ale\AVATAR.jpg" alt= "Pelicula AVATAR" width= "50" height= "50" \>
 <li> 3. TITANIC
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\TITANIC.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
-<li> 4. FAST AND FOURIUS 1
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\f&f.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
+<img src= "C:\Users\andre\Documents\Ale\TITANIC.jpg" alt= "PELICULA EL TITANIC" width= "50" height= "50" \>
+<li> 4. FAST AND FURIOUS 1
+<img src= "C:\Users\andre\Documents\Ale\f&f.jpg" alt= "PELICULA FAST AND FRIOUS" width= "50" height= "50" \>
 <li> 5. THE JOKER
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\JOKER.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
+<img src= "C:\Users\andre\Documents\Ale\JOKER.jpg" alt= "PELICULA THE JOKER" width= "50" height= "50" \>
 <li> 6. EN BUSCA DE LA FELICIDAD
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\EN_BUSCA_DE_LA_FELICIDAD.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
+<img src= "C:\Users\andre\Documents\Ale\EN_BUSCA_DE_LA_FELICIDAD.jpg" alt= "PELICULA EN BUSQUEDA DE LA FELICIDAD" width= "50" height= "50" \>
 <li> 7. EL SEÑOR DE LOS ANILLOS
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\EL_SEÑOR_DE_LOS_ANILLOS.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
+<img src= "C:\Users\andre\Documents\Ale\EL_SEÑOR_DE_LOS_ANILLOS.jpg" alt= "PELICULA EL SÑOR DE LOS ANILLOS" width= "50" height= "50" \>
 <li> 8. AVENGERS
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\AVENGERS.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
+<img src= "C:\Users\andre\Documents\Ale\AVENGERS.jpg" alt= "PELICULA AVENGERS" width= "50" height= "50" \>
 <li> 9. BATMAN BEGINS
-<\ul>
-<img src= "C:\Users\andre\Documents\Ale\BATMAN_BEGINS.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
-<ul>
+<img src= "C:\Users\andre\Documents\Ale\BATMAN_BEGINS.jpg" alt= "PELICULA BATMAN BEGINS" width= "50" height= "50" \>
 <li> 10. HARRY POTTER
+<img src= "C:\Users\andre\Documents\Ale\HARRY_POTTER.jpg" alt= "PELICULA FARRY POTTER" width= "50" height= "50" \>
+
 <\ul>
-<img src= "C:\Users\andre\Documents\Ale\HARRY_POTTER.jpg" alt= "Entretenimiento" width= "50" height= "50" \>
+
 <\body>
+
 <\html>
