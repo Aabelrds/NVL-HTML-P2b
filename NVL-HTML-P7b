@@ -1,0 +1,57 @@
+<!codetype>
+<html>
+<head>
+<p> ELEMENTOS MAS UTILIZADOS EN HTML, html, elementos, atributos, anclas <\P>
+<title> learnhtml <\title>
+<\head>
+<body>
+<h1> Los terminos mas utilizados en <STRONG> HTML <\STRONG> <\h1>
+
+<a href:"#A">terminos_con_A <\a> <a href:"#B">terminos_con_B <\a> <a href:"#C">terminos_con_C <\a> <\a>
+
+<ol>
+
+<a name="A"> <\a>
+<li> <strong> A <\strong> <\li>
+
+<p> <strong< <address> <\strong> <\p>
+<p> Elemento de bloque, elemento contenedor. El elemento de dirección se utiliza ocasionalmente; permite a los visitantes de un sitio Web ponerse en contacto con el autor de la página. Esta información puede ser una dirección de correo electrónico, un enlace Web (las opciones más habituales) o bien una dirección postal. Ejemplo:<\p>
+<img src=""C:\Users\andre\Documents\Ale\ejemplo_address.jpg"> alt="Ejemplo de address">
+
+<p> <strong< <area> (Mapa de imagen) <\strong> <\p>
+<p> Solo permitido en <map> , elemento independiente. El elemento <area> define una región en la que se puede hacer clic (llamada punto caliente) dentro de un mapa de imagen (que se genera con el elemento <map>). <\p>
+<p> Cuando se define un área, debe aportar la URL de destino (con el atributo href), el tipo de forma (con shape) y las coordenadas de esa forma (con coords). Para shape puede especificar un círculo, un cuadrado o un polígono. Para el primero de ellos, las coordenadas se especifican en el orden siguiente: punto central (coordenada x), punto central (coordenada y), radio.<\p>
+<p> Para cualquier otra forma, se proporcionan las esquinas en orden, como una serie de coordenadas x-y: x1,y1,x2,y2, etc. Veamos un ejemplo que genera un punto caliente cuadrado:<\P>
+<img src=""C:\Users\andre\Documents\Ale\ejemplo_area.jpg"> alt="Ejemplo de area">
+
+<p> <strong< <a href> <\strong> <\p>
+Atributo que especifica la URL de la página a la que nos lleva un link.
+
+<a name="B"> <\a>
+<li> <strong> B <\strong> <\li>
+
+<p> <strong< <b> (Texto en negrita) <\strong> <\p>
+<p> Elemento de línea, elemento contenedor <\p>
+<p> Este elemento muestra texto en negrita. La norma oficial sugiere el uso de <b> en un texto desplazado estilísticamente, el cual debe presentarse en negrita pero que no tiene mayor importancia que el resto del contenido, como pueden ser las palabras clave, los nombres de productos o cualquier otro elemento que imprimiría en negrita. <\p>
+<img src=""C:\Users\andre\Documents\Ale\ejemplo_<B>.jpg"> alt="Ejemplo de b">
+
+<p> <strong< <base> (Texto en negrita) <\strong> <\p>
+<p> Solo permitido en <head>, elemento independiente. El elemento base define la URL raíz de un documento, la dirección Web que se usa para interpretar todas las rutas relativas.<\p>
+<p> Debe colocarlo en la sección <head> de la página y puede emplear dos atributos: href (que aporta la URL básica) y target (que ofrece un marco de destino para los enlaces). <\P>
+<p> Por ejemplo, si tiene un vínculo que señala a un archivo llamado MySuperSunday.htm y la URL base es http://www.SundaysForever.com/Current, el navegador interpreta el enlace como http://www.SundaysForever.com/Current/MySuperSunday.htm.<\p>
+
+<a name="C"> <\a>
+<li> <strong> C <\strong> <\li>
+
+<p> <strong< <caption> (Título de tabla) (Texto en negrita) <\strong> <\p>
+<p> Solo permitido en <table>, elemento contenedor. El elemento <caption> define el texto del título de una tabla. Si lo utiliza, deberá colocarlo como primero dentro de un elemento <table>:<\p>
+<img src=""C:\Users\andre\Documents\Ale\ejemplo_caption.jpg"> alt="Ejemplo de caption">
+<p> HTML no aplica formato automático al título, simplemente lo ubica en la parte superior de la tabla como texto normal (y hace que ocupe el ancho de la misma). Puede aplicar el formato que desee mediante reglas de hojas de estilo.<\p>
+
+<\ol>
+
+<a href:"#A">terminos_con_A <\a> <a href:"#B">terminos_con_B <\a> <a href:"#C">terminos_con_C <\a> <\a>
+
+<\body>
+
+<\html>
