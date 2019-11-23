@@ -1,0 +1,52 @@
+<form method="post" action="myserver.php"
+<div>
+<label for="Correo Electrónico"> Correo electónico:<\label>
+<imput id="Correo Electrónico"> type="text">
+<\div>
+<div> 
+<label for="codigo postal">codigo postal<\label>
+<imput id="codigo postal"> type="Number">
+<\div>
+<div>
+<label for="satisfacción"> ¿ Qué tal lo hemos atendido hoy ? <\label>
+<select id:"satisfacción">
+<option value="1">Mediocre <\option>
+<option value="1">pésimo <\option>
+<option value="1">Bien <\option>
+<option value="1">Muy Bien <\option>
+<option value="1">Excelente <\option>
+<\div>
+<div>
+<label for="ASPECTOS +"> Nombre 2 aspectos positivos de nuestra atención <\label>
+<imput id:""ASPECTOS +">type="text">
+<\div>
+<div>
+<label for="ASPECTOS -"> Nombre 2 aspectos en los que podemos mejorar <\label>
+<imput id:""ASPECTOS -">type="text">
+<\div>
+<div>
+<label for="satisfacción"> ¿ Cómo definiría nuestra cocina ? <\label>
+<select id:"satisfacción">
+<option value="1">Excelente <\option>
+<option value="1">Buena <\option>
+<option value="1">Regular <\option>
+<option value="1">Pésima <\option>
+<\div>
+<div>
+<label for="satisfacción"> ¿ Como definiría las instalaciones de nuestro Restaurant ? <\label>
+<select id:"satisfacción">
+<option value="1">Excelentes <\option>
+<option value="1">Buenas <\option>
+<option value="1">Regulares <\option>
+<option value="1">Pésimas <\option>
+<\div>
+<div>
+<label for="satisfacción"> ¿ Como definiría la limpieza de nuestro Restaurant ? <\label>
+<select id:"satisfacción">
+<option value="1">Excelente <\option>
+<option value="1">Buena <\option>
+<option value="1">Regular <\option>
+<option value="1">Pésima <\option>
+<\div>
+<imput type="submit" value="enviar">
+<\form>
