@@ -1,0 +1,44 @@
+<html>
+<head>
+<title> PET HOTEL & SPA <\title>
+<meta name="description" content=" HOTEL DE MASCOTAS, CUIDADO Y ADIESTRAMIENTO!">
+<meta name="keyword" content=" HOTEL DE MASCOTAS, CUIDADO DE MASCOTAS, ADIESTRAMIENTO DE MASCOTAS, PELUQUERIA CANINA, GUARDERIA DE MASCOTAS"
+<\head>
+
+<body background="background.jpg" text=blue>
+<a name="principio"><\a>
+<center><table width="950"><tr><td>
+<imag src="logo.jpg" alt="nuestro logo">
+<center><a href="quienessomos.html"><imag src="quienessomos.jpg" alt="Quienes somos" border="0"><\a>
+<a href="n.servicios.html"><imag src="nuestrosservicios.jpg" alt="nuestros servicios" border="0"><\a>
+<a href="contactanos.html"><img src="contactanos.jpg" alt="Contactanos" border="0"><\a>
+<\center>
+
+
+<div>
+
+<center><table border="0" width="90%" bqcolor="black" text="white">
+<tr>
+
+<td colspan="2">
+<h1><center> "La mejor Guarderia para mascotas de Madrid, con servicio de beterinaria y peluqueria canina"<\center><\h1>
+<br><h4><center> "Tu mascota a cargo de los mejores veterinarios, con más de 10 años de experiencia en el cuidado de animales."<\center><\h4><\br><\td>
+
+<\tr>
+
+<tr>
+<td="1"><p> Hace más de 10 años en <STRONG>PET HOTEL & SPA <\STRONG>  creamos un concepto innovador de nuestra Residencia para mascotas en Madrid, llamado "Dont worry, go to work!",<\p>
+<br><p>dejando atrás la mala costumbre de tener a vuestras mascotas encerradas en jaulas y solo sacándolas a pasear unas pocas veces al día.<\p><\br><\td>
+<td="2"><a class="twitter-timeline" href="https://twitter.com/Pet_hotel_spa?ref_src=twsrc%5Etfw">Tweets by Pet_hotel_spa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><\td>
+
+<\table><\center>
+<\div>
+
+
+<center><a href="#principio">inicio<\a>
+<a href="quienessomos.html">Quienes somos<\a>
+<a href="n.servicios.html">Servicios<\a>
+<a href="contactanos.html">Contactanos<\a>
+<\tr><\td><\table><\center>
+<\body>
+<\html>
