@@ -1,0 +1,51 @@
+<form method="post" action="PETHOTEL&SPA.php">
+<div>
+<label for="nombre">NOMBRE:<\label>
+<imput id="nombre">type="text">
+<\div>
+<div>
+<label for="APELLIDO">Primer apellido:<\label>
+<imput id="APELLIDO">type="text">
+<\div>
+<div>
+<label for="2APELLIDO">Segundo apellido:<\label>
+<imput id="2APELLIDO">type="text">
+<\div>
+<label for="mascota">Tipo de mascota:<\label>
+<imput id="mascota">type="text">
+<div>
+<\div>
+<div>
+<label for="edad">Edad de la mascota:<\label>
+<imput id="edad">type="number">
+<\div>
+<div>
+<label for="edad">Edad de la mascota:<\label>
+<select id="edad">
+<option value="1">1 <\option>
+<option value="2">2 <\option>
+<option value="3">3 <\option>
+<option value="4">4 <\option>
+<option value="5">5 <\option>
+<option value="6">6 <\option>
+<option value="7">7 <\option>
+<\select>
+<\div>
+<div>
+<label for="servicio">Servicio en el que está interesado:<\label>
+<select id="servicio">
+<option value="basic">BASIC <\option>
+<option value="medium">MEDIUM <\option>
+<option value="premium">PREMIUM <\option>
+<option value="premium">OTROS <\option>
+<\select>
+<\div>
+<div>
+<P> Consulta/dudas/citas <\p>
+<textarea><\textarea>
+<label for="email">Email:<\label>
+<imput id="email">type="text">
+<\div>
+<div>
+<imput type="submit" value="enviar">
+<\form>
